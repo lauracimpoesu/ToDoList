@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+body {
+    background: #5433FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-size: 52px;
+    color: white;  
+    text-shadow: 1px 1px 7px fuchsia;  
+    margin-left: 10px; 
+    margin-bottom: 40px; 
+    margin-top: 30px; 
+    font-family: 'Sacramento', cursive;
+}
+
+#myNameValue {
+   height: 65px;
+}
+
+#myButtonOne {
+    color: #0D6EFD;  
+    border: 2px solid #0D6EFD;  
+    text-decoration: double;
+    font-size: 20px;
+    width: 200px; 
+    margin-top: 30px; 
+    margin-left: 40px; 
+}
+
+#myButtonOne:hover { 
+   background-color: none;  
+}
+
+ul li {
+    margin-top: 10px; 
+}
+
+p {
+    cursor: pointer;
+} 
+
+
+
+
+
+
+
+
+
